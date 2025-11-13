@@ -1,7 +1,6 @@
-# AWS-Certified-Generative-AI-Developer-Professional-AIP-C01
-AWS Certified Generative AI Developer Professional AIP-C01 Exam Guide and Study Resources
+# AWS Certified Generative AI Developer Professional AIP-C01 Exam Guide and Study Resources
 
-AWS Certified Generative AI Developer Professional AIP-C01 Overview
+## AWS Certified Generative AI Developer Professional AIP-C01 Overview
 The AWS Certified GenAI Developer – Professional AIP-C01 exam is intended for individuals who perform a GenAI developer role. The exam validates a candidate’s
 ability to effectively integrate foundation models (FM) into applications and business workflows.  This certification demonstrates practical knowledge of how to implement GenAI solutions into production environments by using AWS technologies.
 
@@ -18,7 +17,7 @@ The exam also validates a candidate’s ability to complete the following tasks:
 - [ ] Evaluate FMs for quality and responsibility.
 
  
-# Who should take the AWS Certified GenAI Developer Professional AIP-C01 Exam?
+## Who should take the AWS Certified GenAI Developer Professional AIP-C01 Exam?
 The target candidate should have 2 or more years of experience building production- grade applications on AWS or with open-source technologies, general AI/ML or data engineering experience, and 1 year of hands-on experience implementing GenAI solutions.
 
 The target candidate should have the following AWS knowledge:
@@ -30,7 +29,7 @@ The target candidate should have the following AWS knowledge:
 - [ ] Understanding of AWS cost optimization principles
 
 
-# AWS Generative AI Developer Professional AIP-C01 Exam Domains
+## AWS Generative AI Developer Professional AIP-C01 Exam Domains
 The exam has the following content domains and weightings:
 
 - Domain 1: Foundation Model Integration, Data Management, and Compliance (31% of scored content)
@@ -40,7 +39,7 @@ The exam has the following content domains and weightings:
 - Domain 5: Testing, Validation, and Troubleshooting (11% of scored content)
 
 
-# Other Resources for AWS Certified GenAI Developer Professional AIP-C01
+## Other Resources for AWS Certified GenAI Developer Professional AIP-C01
 
 Here are the relevant resources for the  AWS Certified GenAI Developer Professional AIP-C01 exam:
 
